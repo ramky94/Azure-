@@ -1,6 +1,5 @@
-# Azure
-Microsoft Azure Admin 
-Project
+# Microsoft Azure Admin Project
+
 Created the 3 instance master slave1, slave2, slave3
 ![image](https://github.com/user-attachments/assets/a0efed08-a7bc-4e98-a101-f5859dcebf9b)
 Ansible is downloaded on 3 intance
